@@ -8,7 +8,7 @@ body{
   display: flex;
   font-family:  'Montserrat'sans-serif; 
   background-color: #ff0080;
-  background-image: url('https://assets.change.org/photos/8/ov/iy/zVoviyaXawEkwWl-800x450-noPad.jpg?1625534893');
+  background-image: url('https://assets.change.org/photos/8/ov/iy/zVoviyaXawEkwWl-800x450-noPad.jpg?1625534893%27');
   background-size: cover;
   background-position: center;
   background-repeat: no-repeat;
@@ -17,7 +17,7 @@ body{
 }
 h1{
   margin: auto;
-  margin-top: 100px;
+  margin-top: 200px;
   color: #ffff;
   
 }
