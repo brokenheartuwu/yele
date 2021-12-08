@@ -3,8 +3,8 @@
   margin: 0;
 }
 body{
-  width: 200vw;
-  height: 200vh;
+  width: 100vw;
+  height: 2100vh;
   display: flex;
   font-family:  'Montserrat'sans-serif; 
   background-color: #ff0080;
